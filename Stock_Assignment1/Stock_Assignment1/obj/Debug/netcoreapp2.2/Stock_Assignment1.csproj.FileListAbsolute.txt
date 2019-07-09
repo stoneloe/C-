@@ -1,0 +1,11 @@
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/bin/Debug/netcoreapp2.2/Stock_Assignment1.deps.json
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/bin/Debug/netcoreapp2.2/Stock_Assignment1.runtimeconfig.json
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/bin/Debug/netcoreapp2.2/Stock_Assignment1.runtimeconfig.dev.json
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/bin/Debug/netcoreapp2.2/Stock_Assignment1.dll
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/bin/Debug/netcoreapp2.2/Stock_Assignment1.pdb
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/obj/Debug/netcoreapp2.2/Stock_Assignment1.csprojAssemblyReference.cache
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/obj/Debug/netcoreapp2.2/Stock_Assignment1.csproj.CoreCompileInputs.cache
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/obj/Debug/netcoreapp2.2/Stock_Assignment1.AssemblyInfoInputs.cache
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/obj/Debug/netcoreapp2.2/Stock_Assignment1.AssemblyInfo.cs
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/obj/Debug/netcoreapp2.2/Stock_Assignment1.dll
+/Users/bohan/Projects/Stock_Assignment1/Stock_Assignment1/obj/Debug/netcoreapp2.2/Stock_Assignment1.pdb

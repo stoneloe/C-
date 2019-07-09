@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D729C1D2-9FBD-446E-B764-9D0700674E50}|Default">
+  <MonoDevelop.Ide.ItemProperties.Stock__Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stock_Assignment1/AbstractStock.cs">
+    <Files>
+      <File FileName="Stock_Assignment1/StockIvestment.cs" Line="16" Column="37" />
+      <File FileName="Stock_Assignment1/Stock.cs" Line="26" Column="1" />
+      <File FileName="Stock_Assignment1/AbstractStock.cs" Line="5" Column="6" />
+      <File FileName="Stock_Assignment1/StockInvestment.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stock_Assignment1" expanded="True">
+            <Node name="Stock_Assignment1" expanded="True">
+              <Node name="AbstractStock.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
