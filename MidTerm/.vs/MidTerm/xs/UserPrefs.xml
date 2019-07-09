@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{82FC57B3-78DA-4AD7-BCB6-13A4B097F604}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidTerm/CalcComplexFactory.cs">
+    <Files>
+      <File FileName="MidTerm/Program.cs" Line="1" Column="1" />
+      <File FileName="MidTerm/DemoCollections.cs" Line="458" Column="51" />
+      <File FileName="MidTerm/AbstractCalc.cs" Line="1" Column="1" />
+      <File FileName="MidTerm/DemoLambda.cs" />
+      <File FileName="MidTerm/Demo.cs" />
+      <File FileName="MidTerm/AbstractCalcFactory.cs" Line="13" Column="6" />
+      <File FileName="MidTerm/AbstractCalcPipeline.cs" Line="1" Column="1" />
+      <File FileName="MidTerm/CalcComplex.cs" Line="1" Column="1" />
+      <File FileName="MidTerm/CalcComplexFactory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidTerm" expanded="True">
+            <Node name="MidTerm" expanded="True">
+              <Node name="CalcComplexFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MidTerm FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
